@@ -24,7 +24,6 @@ def load_data():
 
 st.set_page_config(page_title="Retail Sales App", layout="wide")
 st.title("Retail Sales Application")
-tion
 type_choice = st.sidebar.selectbox(
     "Select Mode:",
     ["Prediction", "Visualization"]
@@ -175,4 +174,4 @@ else:
     )
     st.altair_chart(chart_corr, use_container_width=True)
 
-#    python -m streamlit run "e:\Sales_Forecasting_Project\apps\app.py"
+#    python -m streamlit run "DataScTeam/DataScienceFinalproject/app.py"
