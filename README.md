@@ -4,12 +4,12 @@
 This project aims to predict future sales for a retail business using historical sales data. The process involves data collection, cleaning, exploration, time-series forecasting model development, optimization, and deployment. The end goal is to create an accurate sales prediction model to help businesses optimize inventory, marketing, and sales strategies.
 
 ## Contributors
-- **Abdallah Adel Abdallah** (21063654)
-- **Abdelrahman Adel Abdelkader** (21057228)
-- **Abdelrahman Badawy Ali** (21074236)
-- **Asmaa Muhammad Abdelhamid** (21095177)
-- **Maryam Taha Abdelaty** (21067260)
-- **Muhammed Ahmed Abdelmegeed** (21063106)
+- **Abdallah Adel Abdallah** 
+- **Abdelrahman Adel Abdelkader**
+- **Abdelrahman Badawy Ali** 
+- **Asmaa Muhammad Abdelhamid**
+- **Maryam Taha Abdelaty**
+- **Muhammed Ahmed Abdelmegeed** 
 
 **Supervised by:** Eng. Islam Adel
 
