@@ -108,4 +108,4 @@ This project aims to predict future sales for a retail business using historical
 We successfully built a robust sales forecasting framework, achieving **99.37% accuracy** with low error (RMSE = 8.65).  
 With an MLOps pipeline and a deployable app, the solution empowers businesses to make confident, data-driven inventory and marketing decisions.
 
----
+--- 
